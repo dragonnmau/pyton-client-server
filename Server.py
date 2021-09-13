@@ -56,4 +56,4 @@ while 1:
 	#start new thread takes 1st argument as a function name to be run, second is the tuple of arguments to the function.
 	(clientthread ,(conn,))
 
-s.close()
+s.close() 
